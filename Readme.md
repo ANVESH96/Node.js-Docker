@@ -1,4 +1,4 @@
-# docker-basic
+# Nodejs in Docker
 Build a basic Nodejs programm using Docker and configure automate builds with DockerHub.
 ## Contents:
 ###### .Dockerfile  which has instructions to build image in docker
