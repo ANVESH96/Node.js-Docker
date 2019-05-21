@@ -11,5 +11,6 @@ Build a basic Nodejs programm using Docker and configure automate builds with Do
 ## Installation and Running
 * Download the git repository and run 
 ``` npm install
+npm install
 ```
 
